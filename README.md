@@ -1,5 +1,8 @@
 # 💫 About Me:
-🔭Currently working as a Game Developer.<br>🌱Learning Multiplayer Networking / Protocols<br>📚Studying Mechanical Engineering at Bogazici University<br>🔁Worked as a Software Dev. Freelance r for 2 years.<br>🧪Have experience in Web Automation/Scripting and Machine Learning<br>🕸 Developed several frontend and backend projects for non-profit organizations
+🔭Currently working as a Game Developer.<br>🌱Learning Multiplayer Networking / Protocols<br>📚Studying Mechanical Engineering at Bogazici University<br>🔁Worked as a Software Dev. Freelance r for 2 years.<br>🧪Have experience in Web Automation/Scripting and Machine Learning<br>🕸 Developed several frontend and backend projects for non-profit organizations<br>
+🔭Check Games I've worked on!
+- [Find The Thief](https://apps.apple.com/us/app/find-the-thief/id6444716133)
+- [Break Run](https://apps.apple.com/us/app/break-run-3d/id6443644620)
 
 
 ## 🌐 Socials:
